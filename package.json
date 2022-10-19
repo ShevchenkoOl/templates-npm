@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"key": [],
 	"author": "Oleksii Shevchenko <uzlabini@gmail.com>",
 	"main": "server.js",
 	"scripts": {
